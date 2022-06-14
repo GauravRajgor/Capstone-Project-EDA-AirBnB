@@ -1,1 +1,1 @@
-# Capstone Project EDA-AirBnB Booking Analysis
+# Capstone Project (EDA) -AirBnB Booking Analysis
